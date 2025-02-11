@@ -66,7 +66,7 @@ li{
 }
 
 footer {
-    background-color: rgb(121, 183, 121);
+    background-color: rgb(171, 176, 171);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
 
@@ -86,9 +86,8 @@ footer {
 
 #main_content{
     font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(4, 122, 4);
+    background-color: rgb(185, 229, 185);
     font-size: x-large;
     display: block;
     text-align: justify;
 }
-
